@@ -1,3 +1,3 @@
 # synczk.txt
 snapshot today NO
-Arbitrum check
+Arbitrum check too
